@@ -1,5 +1,7 @@
 use std::io::{Read, Write};
 
+pub mod stdio;
+
 pub fn interact(
     mut r: impl Read,
     mut w: impl Write,
