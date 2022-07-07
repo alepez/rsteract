@@ -2,7 +2,9 @@
 name = "rsteract"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+authors = ["Alessandro Pezzato <alessandro@pezzato.net>"]
+description = "From stdin to String and back to stdout"
+homepage = "https://github.com/alepez/rsteract"
+repository = "https://github.com/alepez/rsteract"
+readme = "README.md"
+license = "MIT/Apache-2.0"
