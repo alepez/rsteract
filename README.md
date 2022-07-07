@@ -31,5 +31,5 @@ This crate also provide a generic version for `Read` and `Write` traits.
 Competitive programming, when you need to quickly write code to read from stdin
 and write to stdout.
 
-Feel free to copy this your code in your program, if using external crates is
+Feel free to copy this code in your program, if using external crates is
 not an option.
